@@ -19,7 +19,7 @@ Instructor: Dr. Kamali Tabrizi (Fall 2021)
 ### HW03:
 * Q1: Hough Transform
 * Q2: Texture Synthesis
-* Q3: Iimage Completion and Hole Filling
+* Q3: Image Completion and Hole Filling
 
 ### HW04:
 * Q1: KMeans
