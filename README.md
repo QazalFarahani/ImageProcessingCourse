@@ -1,5 +1,6 @@
 # ImageProcessingCourse
 Programming assignments of Image processing course. Sharif University of Technology.
+Instructor: Dr. Kamali Tabrizi (Fall 2021)
 
 ### HW01:
 * Q1: Image Enhancement, Histogram Equalization
