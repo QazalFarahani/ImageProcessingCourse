@@ -27,3 +27,9 @@ Instructor: Dr. Kamali Tabrizi (Fall 2021)
 * Q3: Segmentation, SLIC Algorithm
 * Q4: Segmentation, Detect Birds
 * Q5: Active Contours
+
+### HW05:
+* Q1: Image Morphing
+* Q2: Poisson Blending 
+* Q3: Multiresolution Blending and Feathering
+
